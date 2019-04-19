@@ -9,7 +9,7 @@
         <img
           id="therapeutBildXsAndSm"
           class="img-fluid maxWidth"
-          src="@/assets/Seidl_Barbara.jpg"
+          src="@/assets/Seidl_Barbara.webp"
           alt="Barbara Seidl"
         />
       </div>
@@ -19,7 +19,7 @@
         <img
           id="therapeutBildMd"
           class="img-fluid"
-          src="@/assets/hochkannt.png"
+          src="@/assets/hochkannt.webp"
           alt="Barbara Seidl"
         />
       </div>
@@ -28,7 +28,7 @@
       <div class="hidden-md-and-down col-4">
         <img
           class="img-fluid therapeutBild"
-          src="@/assets/Seidl_Barbara.jpg"
+          src="@/assets/Seidl_Barbara.webp"
           alt="Barbara Seidl"
         />
       </div>
