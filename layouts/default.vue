@@ -129,7 +129,7 @@ video {
 .background-image {
   position: fixed;
   z-index: 1;
-  background-image: url('~@/assets/flower2.webp');
+  background-image: url('~@/assets/flower2.jpg');
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -177,12 +177,12 @@ video {
   }
 
   h2 {
-    font-size: 3.5vh !important;
+    font-size: 1rem !important;
   }
 }
 
 h2 {
-  font-size: 3vh;
+  font-size: 1.5rem;
   margin-bottom: 4vh;
   text-align: center;
 }
