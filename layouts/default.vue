@@ -11,10 +11,9 @@
     <v-footer id="footer" inset class="hidden-sm-and-down fixed-bottom">
       <v-layout>
         <v-flex text-xs-center>
-          Psychotherapie Barbara Seidl |
-          <router-link to="/datenschutz">Datenschutz</router-link>&
-          <router-link to="/impressum">Impressum |</router-link>Gestaltung:
-          Isabel Seidl
+          Copyright © 2019 alle Rechte vorbehalten |
+          <router-link to="/datenschutz">Datenschutz </router-link>&
+          <router-link to="/impressum">Impressum</router-link>
         </v-flex>
       </v-layout>
     </v-footer>

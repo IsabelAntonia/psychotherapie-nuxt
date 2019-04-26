@@ -1,5 +1,5 @@
 import VuetifyLoaderPlugin from 'vuetify-loader/lib/plugin'
-import pkg from './package'
+// import pkg from './package'
 
 export default {
   mode: 'universal',
@@ -8,7 +8,8 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: pkg.name,
+    // title: pkg.name,
+    titleTemplate: 'Psychotherapie Peißenberg | Barbara Seidl',
     meta: [
       {
         charset: 'utf-8'
@@ -20,7 +21,9 @@ export default {
       {
         hid: 'description',
         name: 'description',
-        content: pkg.description
+        // content: pkg.description
+        content:
+          'Psychotherapie in Peißenberg. Hilfe bei Lebenskrisen und psychischen Erkrankungen'
       }
     ],
     link: [
