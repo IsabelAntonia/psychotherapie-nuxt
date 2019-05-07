@@ -1,3 +1,4 @@
+/* eslint-disable */
 import VuetifyLoaderPlugin from 'vuetify-loader/lib/plugin'
 // import pkg from './package'
 
@@ -10,8 +11,7 @@ export default {
   head: {
     // title: pkg.name,
     titleTemplate: 'Psychotherapie Peißenberg | Barbara Seidl',
-    meta: [
-      {
+    meta: [{
         charset: 'utf-8'
       },
       {
@@ -26,20 +26,17 @@ export default {
         hid: 'description',
         name: 'description',
         // content: pkg.description
-        content:
-          'Psychotherapie in Peißenberg. Hilfe bei Lebenskrisen und psychischen Erkrankungen'
+        content: 'Psychotherapie in Peißenberg. Hilfe bei Lebenskrisen und psychischen Erkrankungen'
       }
     ],
-    link: [
-      {
+    link: [{
         rel: 'icon',
         type: 'image/x-icon',
         href: '/favicon.ico'
       },
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons'
+        href: 'https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons'
       }
     ]
   },
@@ -65,7 +62,20 @@ export default {
    ** Nuxt.js modules
    */
 
-  modules: ['bootstrap-vue/nuxt'],
+  modules: ['bootstrap-vue/nuxt', '@nuxtjs/sitemap'],
+
+  sitemap: {
+    generate: true,
+
+
+    routes: [
+      '/',
+      '/startseite',
+      '/therapieangebot'
+
+    ]
+  },
+
 
   // modules: [],
 
