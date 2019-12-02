@@ -19,6 +19,9 @@
 
         <ul>
           <li>Psychotherapeutenkammer Bayern</li>
+          <li>Birketweg 30</li>
+          <li>800639 München</li>
+          <br />
           <li>Postfach 151506</li>
           <li>80049 München</li>
         </ul>

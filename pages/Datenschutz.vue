@@ -64,6 +64,7 @@
         Datenerhebung. In keinem Fall verwende ich die erhobenen Daten zu dem
         Zweck, Rückschlüsse auf Ihre Person zu ziehen.
       </p>
+      <v-divider></v-divider>
       <p class="bold">Kontaktaufnahme per E-Mail</p>
       <p>
         Ich weise darauf hin, dass die Datenübertragung im Internet
@@ -86,7 +87,7 @@
         Gesundheitsdaten in eine unverschlüsselte E-Mail, sondern nutzen Sie es
         nur zu einer ersten Kontaktaufnahme.
       </p>
-
+      <v-divider></v-divider>
       <p class="bold">Weitergabe von Daten</p>
       <p>
         Die auf meiner Website erhobenen Daten werden ohne Ihre ausdrückliche
@@ -145,6 +146,7 @@
         Um diese Rechte geltend zu machen, können Sie sich jederzeit an mich
         wenden.
       </p>
+      <v-divider></v-divider>
       <p class="bold">Aktualität und Änderung dieser Datenschutzerklärung</p>
       <p>
         Diese Datenschutzerklärung hat den Stand Mai 2018. Ich behalte mir vor,
