@@ -32,13 +32,13 @@
 
       <v-divider></v-divider>
 
-      <p class="bold">
-        Besuch der Website:
-      </p>
+      <p class="bold">Besuch der Website:</p>
       <p>
         Meine Website dient der Bereitstellung von Informationen über meine
-        Praxis. Beim Besuch meiner Website werden durch den auf Ihrem Endgerät
-        zum Einsatz kommenden Browser Informationen an den Server meiner Website
+        Praxis. Personenbezogenen Daten (Vor-, Nachname,
+        E-Mail-Adresse,Telefonnummer werden auf meiner Website nicht erhoben.
+        Beim Besuch meiner Website werden durch den auf Ihrem Endgerät zum
+        Einsatz kommenden Browser Informationen an den Server meiner Website
         gesendet. Diese Informationen werden temporär in den Logfiles des
         Servers gespeichert. Folgende Informationen werden dabei erhoben:
       </p>
@@ -64,16 +64,37 @@
         Datenerhebung. In keinem Fall verwende ich die erhobenen Daten zu dem
         Zweck, Rückschlüsse auf Ihre Person zu ziehen.
       </p>
-
+      <p class="bold">Kontaktaufnahme per E-Mail</p>
       <p>
-        Weitergabe von Daten Die auf meiner/unserer Website erhobenen Daten
-        werden ohne Ihre ausdrückliche Einwilligung (Artikel 6 Absatz 1 Satz 1
-        lit. a DSGVO) nicht an Dritte weitergegeben.
+        Ich weise darauf hin, dass die Datenübertragung im Internet
+        Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor
+        dem Zugriff durch Dritte ist nicht möglich. Sollten Sie über
+        E-Mail-Kontakt mit mir aufnehmen, erfolgt die Verarbeitung Ihrer Daten
+        aufgrund Ihrer freiwillig erteilten Einwilligung gemäß Artikel 6 Absatz
+        1 Satz 1 lit. a DSGVO. Die Angabe Ihrer gültigen E-Mail-Adresse ist
+        erforderlich, um Ihre Anfragen beantworten zu können. Diese Daten und
+        Ihre Nachricht werden nur zur Bearbeitung und Beantwortung Ihrer Anfrage
+        gespeichert. Die Daten werden gelöscht, sobald sie nicht mehr
+        erforderlich sind und keine gesetzliche Aufbewahrungspflicht besteht.
+        Eine Weitergabe Ihrer Daten an Dritte erfolgt nicht. Ihre Einwilligung
+        können Sie jederzeit widerrufen. Durch den Widerruf wird die
+        Rechtmäßigkeit, der aufgrund der Einwilligung bis zum Widerruf erfolgten
+        Verarbeitung der Daten nicht berührt. Den Widerruf können Sie
+        schriftlich oder per E-Mail richten an: Cirsten Ullrich,
+        Gabelsbergerstraße 30, 80333 München, praxis@cirstenullrich.de. Bitte
+        schreiben Sie keine vertraulichen Informationen, insbesondere
+        Gesundheitsdaten in eine unverschlüsselte E-Mail, sondern nutzen Sie es
+        nur zu einer ersten Kontaktaufnahme.
+      </p>
+
+      <p class="bold">Weitergabe von Daten</p>
+      <p>
+        Die auf meiner Website erhobenen Daten werden ohne Ihre ausdrückliche
+        Einwilligung (Artikel 6 Absatz 1 Satz 1 lit. a DSGVO) nicht an Dritte
+        weitergegeben.
       </p>
       <v-divider></v-divider>
-      <p class="bold">
-        Sie haben folgende Rechte:
-      </p>
+      <p class="bold">Sie haben folgende Rechte:</p>
 
       <ul>
         <li>
@@ -123,6 +144,20 @@
       <p>
         Um diese Rechte geltend zu machen, können Sie sich jederzeit an mich
         wenden.
+      </p>
+      <p class="bold">Aktualität und Änderung dieser Datenschutzerklärung</p>
+      <p>
+        Diese Datenschutzerklärung hat den Stand Mai 2018. Ich behalte mir vor,
+        die Datenschutzerklärung zu aktualisieren, um den Datenschutz zu
+        verbessern oder an geänderte behördliche oder gerichtliche Vorgaben
+        anzupassen. Die aktuelle Datenschutzerklärung kann jederzeit auf der
+        Website unter
+        <a
+          href="https://www.psychotherapie-seidl.de/datenschutz"
+          target="_blank"
+          >Datenschutzerklärung</a
+        >
+        abgerufen und ausgedruckt werden.
       </p>
 
       <br />
