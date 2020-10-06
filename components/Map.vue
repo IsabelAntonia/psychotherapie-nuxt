@@ -7,7 +7,7 @@
         <div>Iblherstraße 18, 82380 Peißenberg</div>
         <div class="mt-2">Telefonnummer: 0176 56992742</div>
         <div class="mt-2">Telefonische Sprechzeiten:</div>
-        <div>Dienstags 8:00 bis 08:50 und Donnerstags 12:00 bis 12:50</div>
+        <div>Dienstags 12:00 bis 12:50 und Donnerstags 12:00 bis 12:50</div>
 
         <div style="border: 1px solid black;" class="row mt-4 p-2 m-0">
           <v-icon class="col-2 p-0">info</v-icon>
@@ -25,7 +25,7 @@
         <div>Iblherstraße 18, 82380 Peißenberg</div>
         <div class="mt-2">Telefonnummer: 0176 56992742</div>
         <div class="mt-2">Telefonische Sprechzeiten:</div>
-        <div>Dienstags 8:00 bis 08:50 und Donnerstags 12:00 bis 12:50</div>
+        <div>Dienstags 12:00 bis 12:50 und Donnerstags 12:00 bis 12:50</div>
 
         <div style="border: 1px solid black;" class="row mt-4 p-3 pr-2 m-0">
           <v-icon class="col-1 p-0">info</v-icon>
